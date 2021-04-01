@@ -57,10 +57,12 @@ def intensity_by_date():
                 }
     return result
 
+# Base map 
 Montpelier = [43.6112, 3.8767]
 data_locations = data_locations()
 
 # grouper les données par dates
+
 intensity_date = intensity_by_date()
 # pour chaque date, créer une map à partir des données
 Maps = []
