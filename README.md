@@ -10,3 +10,8 @@ The second is to perform some data visualization blending time and space represe
 
 
 # Visualization 
+
+This widget displays plots of the trafic intensity of each counter : 
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jihene-b3/totem/master?filepath=https%3A%2F%2Fgithub.com%2Fjihene-b3%2Ftotem%2Fblob%2Fmaster%2Fvisualization%2Fwidget.ipynb)
+
