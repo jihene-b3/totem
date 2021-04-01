@@ -1919,3 +1919,33 @@ console.warn: SearchSettings: "get: No settings file exists, new profile?" (new 
 1617291040103	Marionette	INFO	Listening on port 64411
 1617291040314	Marionette	WARN	TLS certificate errors will be ignored for this session
 console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1617293842116	geckodriver	INFO	Listening on 127.0.0.1:65263
+1617293845199	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\JIHENE~1\\AppData\\Local\\Temp\\rust_mozprofile9hOejW"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617293848406	Marionette	INFO	Listening on port 65271
+1617293848464	Marionette	WARN	TLS certificate errors will be ignored for this session
+1617293849332	Marionette	INFO	Stopped listening on port 65271
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1617294125198	geckodriver	INFO	Listening on 127.0.0.1:65389
+1617294128281	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\JIHENE~1\\AppData\\Local\\Temp\\rust_mozprofileoRORWa"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617294130334	Marionette	INFO	Listening on port 65398
+1617294130432	Marionette	WARN	TLS certificate errors will be ignored for this session
+1617294150805	Marionette	INFO	Stopped listening on port 65398
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+"--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\JIHENE~1\\AppData\\Local\\Temp\\rust_mozprofileRbWjb9"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617294150247	Marionette	INFO	Listening on port 65464
+1617294150549	Marionette	WARN	TLS certificate errors will be ignored for this session
+Marionette threw an error: TypeError: win is null
+capture.canvas@chrome://marionette/content/capture.js:79:17
+takeScreenshot@chrome://marionette/content/actors/MarionetteCommandsParent.jsm:263:32
+
+1617294152383	Marionette	INFO	Stopped listening on port 65464
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+

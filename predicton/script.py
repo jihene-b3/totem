@@ -1,6 +1,6 @@
-import predicto as pr 
-from predicto.io.Load_db import Load_db 
-from predicto.Data import adapt_to_fbp,format_data
+import predicton as pr 
+from predicton.io.Load_db import Load_db 
+from predicton.Data import adapt_to_fbp,format_data
 import os 
 import pandas as pd
 import numpy as np

@@ -1,8 +1,9 @@
 import pandas as pd 
 import datetime as dt 
-import predicto.Data.format_data
+import predicton.Data.format_data
  
 def adapt_to_fbp(df_totem):
+    
     """
     Function adjusts Dataset to Prophet's requirments. 
     

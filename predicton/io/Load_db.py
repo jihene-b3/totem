@@ -1,6 +1,6 @@
 import pandas as pd
 from download import download
-from predicto.io import url,path_target
+from predicton.io import url,path_target
 
 class Load_db:
   def __init__(self, url=url, target_name=path_target):
