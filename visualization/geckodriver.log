@@ -1770,7 +1770,8 @@ console.warn: SearchSettings: "get: No settings file exists, new profile?" (new 
 1617304363210	Marionette	INFO	Listening on port 61677
 1617304363589	Marionette	WARN	TLS certificate errors will be ignored for this session
 console.log: WebExtensions: reset-default-search: No addons in our list are installed.
-ner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\JIHENE~1\\AppData\\Local\\Temp\\rust_mozprofileqTR7Z1"
+1617312220511	Marionette	INFO	Stopped listening on port 61677
+firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\JIHENE~1\\AppData\\Local\\Temp\\rust_mozprofileqTR7Z1"
 console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
 1617304519447	Marionette	INFO	Listening on port 61788
 1617304519922	Marionette	WARN	TLS certificate errors will be ignored for this session

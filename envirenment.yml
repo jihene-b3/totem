@@ -1,0 +1,15 @@
+name: newenv
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - matplotlib
+  - Prophet
+  - conda-forge::fiona
+  - folium
+  - contextily
+  - seaborn
+  - pandas
+  - numpy
+  - ipywidgets
+prefix: C:\Users\Jihene Belgaied\anaconda3\envs\newenv
