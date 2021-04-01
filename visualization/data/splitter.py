@@ -1,4 +1,6 @@
 def split(string):
+    '''
+    '''
     result = []
     tmp = ""
     counter = 0

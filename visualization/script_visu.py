@@ -29,6 +29,8 @@ data = {
 }
 
 def data_locations():
+    '''
+    '''
     result = {}
     for key in data.keys():
         result[key] = (data[key][0]["location"]["coordinates"][1],
@@ -37,6 +39,8 @@ def data_locations():
 
 
 def intensity_by_date():
+    '''
+    '''
     result = collections.OrderedDict()
     for key in data.keys():
         for entry in data[key]:
