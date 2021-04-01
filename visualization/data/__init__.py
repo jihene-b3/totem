@@ -1,0 +1,2 @@
+from data.data_extractor import extract_data_from_url
+from data.data_extractor import extract_data_from_file

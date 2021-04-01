@@ -1,0 +1,1 @@
+from utils.generator import generate_pngs_from_htmls, generate_gif_from_pngs
